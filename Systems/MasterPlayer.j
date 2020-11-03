@@ -1,3 +1,5 @@
+// Requires: https://www.hiveworkshop.com/threads/hostdetection-gethost.316767/
+
 library MasterPlayer initializer onInit requires HostDetection
     
     globals
